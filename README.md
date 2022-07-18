@@ -18,7 +18,7 @@
   with:
     # ... other options
     plugin_wakatime: yes
-    plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
+    plugin_wakatime_token: 11189152-9152-4bdf-8312-1af205df805d      # Required
     plugin_wakatime_days: 7                                   # Display last week stats
     plugin_wakatime_sections: time # Display time and projects sections, along with projects graphs
     plugin_wakatime_limit: 4                                  # Show 4 entries per graph
