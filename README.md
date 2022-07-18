@@ -16,7 +16,6 @@
 
 - uses: lowlighter/metrics@latest
   with:
-    # ... other options
     plugin_wakatime: yes
     plugin_wakatime_token: 11189152-9152-4bdf-8312-1af205df805d      # Required
     plugin_wakatime_days: 7                                   # Display last week stats
